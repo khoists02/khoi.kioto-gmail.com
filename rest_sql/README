@@ -1,0 +1,8 @@
+# virtualenv venv --python=python3
+# source venv/bin/activate
+# When use windown './venv/scripts/activate.bat'
+# pip3 install Flask
+# pip3 install Flask-RESTFul
+# pip3 install Flask-JWT
+# pip3 install Flask-SQLAlchemy
+# pip3 install flake8
